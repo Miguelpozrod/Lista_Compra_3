@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista_Compra_3</string>
+        <string-array name="sections_array">
+            <item>Panadería</item>
+            <item>Pescadería</item>
+            <item>Frutería</item>
+            <item>Carnicería</item>
+            <item>Charcutería</item>
+            <item>Conservas</item>
+            <item>Perfumería</item>
+            <item>General</item>
+        </string-array>
+</resources>
